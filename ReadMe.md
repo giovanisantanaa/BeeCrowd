@@ -6,7 +6,7 @@ Hi! Here I keep solving some problems on the [**BeeCrowd**](judge.beecrowd.com) 
 
 |Languages 	|Problems 	|
 |-----------|-----------|
-|C			|1000-1014	|
+|C			|1000-1017	|
 
 ---
 
