@@ -4,9 +4,9 @@ Hi! Here I keep solving some problems on the [**BeeCrowd**](judge.beecrowd.com) 
 
 ---
 
-|Languages 	|Problems 	|
-|-----------|-----------|
-|C			|1000-1017	|
+|Languages 	                                                    |Problems                                          	                    |
+|---------------------------------------------------------------|-----------------------------------------------------------------------|
+|[C](https://en.wikipedia.org/wiki/C_(programming_language))    | [1000-1017](https://github.com/giovanisantanaa/BeeCrowd/tree/main/C)  |
 
 ---
 

@@ -11,7 +11,7 @@ int main() {
 
     liters = time * avrg_speed / km_l;      // Calculates the amount of liters needed to make the trip and stores it in the liters variable.
 
-    printf("%.3f\n", liters);                 // Prints the value of the liters variable on the screen with 3 decimal places
+    printf("%.3f\n", liters);               // Prints the value of the liters variable on the screen with 3 decimal places
 
     return 0;
 }
