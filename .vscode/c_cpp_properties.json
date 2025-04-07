@@ -8,7 +8,7 @@
                 "C:/MinGW/lib/gcc/mingw32/6.3.0/include"
             ],
             "defines": [],
-            "compilerPath": "C:/MinGW/bin/gcc.exe",
+            "compilerPath": "/usr/bin/clang",
             "cStandard": "c11",
             "intelliSenseMode": "gcc-x64"
         }
