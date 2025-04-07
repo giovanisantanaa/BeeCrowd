@@ -8,6 +8,7 @@ Hi! Here I keep solving some problems on the [**BeeCrowd**](judge.beecrowd.com) 
 |-------------------------------------------------------------------|-------------------------------------------------------------------------------|
 |[C](https://en.wikipedia.org/wiki/C_(programming_language))        | [1000-1020](https://github.com/giovanisantanaa/BeeCrowd/tree/main/C)          |
 |[JAVA](https://en.wikipedia.org/wiki/Java_(programming_language))  | [1000-1005](https://github.com/giovanisantanaa/BeeCrowd/tree/main/Java/src)   |
+|[C++](https://pt.wikipedia.org/wiki/C%2B%2B)                       | [1000-1005](https://github.com/giovanisantanaa/BeeCrowd/tree/main/C%2B%2B)    |
 
 ---
 
